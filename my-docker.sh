@@ -14,5 +14,3 @@ sudo add-apt-repository \
 sudo apt-get update 
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 sudo usermod -aG docker $USER
-# After this
-# Run sudo usermod -aG docker $USER
